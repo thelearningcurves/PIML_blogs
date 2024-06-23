@@ -1,14 +1,7 @@
-Welcome to Lumache's documentation!
+Physics-Informed Machine Learning
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
+These Notebooks document my PhD Journey as I explore, modify, build, adapt, and apply available PIML approaches to solve PDEs.
 .. note::
 
    This project is under active development.
@@ -17,6 +10,7 @@ Contents
 --------
 
 .. toctree::
+   :caption: PINNs
+   :maxdepth:2
 
-   usage
-   api
+   
